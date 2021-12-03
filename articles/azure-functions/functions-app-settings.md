@@ -109,7 +109,7 @@ Functions ランタイムのバージョン 2.x 以降では、現在の環境�
 
 ![関数アプリのランディング ページ](media/functions-app-settings/function-app-landing-page.png)
 
-## <a name="azurewebjobsdotnetreleasecompilation&quot;></a>AzureWebJobsDotNetReleaseCompilation
+## <a name="azurewebjobsdotnetreleasecompilation"></a>AzureWebJobsDotNetReleaseCompilation
 
 `true` は、.NET コードのコンパイルにリリース モードを使用することを意味し、`false` は、デバッグ モードを使用することを意味します。 既定値は `true` です。
 
