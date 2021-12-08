@@ -148,7 +148,7 @@ Azure mobile app の構成時にアカウント ID として使用するメー�
 
 アクション グループには、電子メールに関する限られた数のアクションを持つことができます。 [レート制限情報](./alerts-rate-limiting.md)の記事を参照してください。
 
-### <a name="function"></a>機能
+### <a name="function"></a>Function
 [Azure Functions](../../azure-functions/functions-get-started.md) で既存の HTTP トリガー エンドポイントを呼び出します。 要求を処理するには、エンドポイントで HTTP POST 動詞を処理する必要があります。
 
 アクション グループには、限られた数の Function アクションを保持できます。
