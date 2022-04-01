@@ -15,7 +15,7 @@ ms.locfileid: "96010505"
 
 Azure Functions 拡張機能を使用すると、関数を作成してテストし、Azure にデプロイすることができます。
 
-1. Visual Studio Code で **[拡張機能]** を開き、**azure functions** を検索するか、Visual Studio Code でこのリンク (`vscode:extension/ms-azuretools.vscode-azurefunctions`) を選択します。
+1. Visual Studio Code で **[拡張機能]** を開き、**azure functions** を検索するか、Visual Studio Code でこのリンク \(`vscode:extension/ms-azuretools.vscode-azurefunctions`\) を選択します。
 
 1. **[インストール]** を選択して、Visual Studio Code に拡張機能をインストールします。
 
